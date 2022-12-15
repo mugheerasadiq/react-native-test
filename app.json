@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Uptoneapp",
+    "slug": "uptoneapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/649bf433-ebcc-4944-9885-cd1c1dbe23ec"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.Oasisfrontend.Oasisfrontend",
+      "versionCode": 5
+    },
+    "ios": {
+      "bundleIdentifier": "com.Oasisfrontend.Oasisfrontend",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "9fa8b7dc-c7f1-43e1-9f69-434572411119"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}

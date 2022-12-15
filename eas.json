@@ -1,0 +1,24 @@
+{
+  "cli": {
+    "version": ">= 2.8.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "sethtemon2000@gmail.com",
+        "ascAppId": "6444808985",
+        "appleTeamId": "KWFRN8GUD9"
+      }
+    }
+  }
+}
